@@ -1,0 +1,23 @@
+{
+  "invites": [
+    {
+      "email": "dfdf@sdsd.ru",
+      "id": 1
+    },
+    {
+      "email": "asassa@as.et",
+      "id": 2
+    },
+    {
+      "email": "sds@sdsd.ry",
+      "id": 3
+    }
+  ],
+  "friendivites": [
+    {
+      "name": "sd",
+      "surname": "sd",
+      "id": 1
+    }
+  ]
+}
